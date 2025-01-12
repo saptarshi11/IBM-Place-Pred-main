@@ -81,11 +81,7 @@ http://localhost:5000.
 
 Use the web interface to input student information and get predictions for academic performance.
 
-### Website
 
-
-
-<img width="1280" alt="image" src="https://github.com/smartinternz02/SBSPS-Challenge-10169-1691067442/assets/91490894/cf99480b-7bb1-4b12-aaf9-872c67645296">
 
 
 ## License
